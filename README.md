@@ -4,7 +4,8 @@
 
 [Canvas粒子效果](https://calabash519.github.io/project-collections/canvas-demo/index.html)
 
-[Tomcat](https://calabash519.github.io/project-collections/Tomcat/cat.html)
+[Tomcat动画游戏](https://calabash519.github.io/project-collections/Tomcat/cat.html)
 
-[HTML5-pages](https://calabash519.github.io/project-collections/HTML5-pages/index.html)
+[HTML5手机页面](https://calabash519.github.io/project-collections/HTML5-pages/index.html)
 
+[轮播](https://calabash519.github.io/project-collections/carousel/rotation.html)
