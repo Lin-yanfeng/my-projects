@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html,body{
+	width: 100%;
+	height: 100%;
+}
+
+#cat{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+img{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+}
+
+#cymbal{
+	left: 5%;
+	bottom: 40%;
+}
+
+#drink{
+	left: 5%;
+	bottom: 30%;
+}
+
+#eat{
+	left: 5%;
+	bottom: 20%;
+}
+
+#fart{
+	right: 5%;
+	bottom: 40%;
+}
+
+#pie{
+	right: 5%;
+	bottom: 30%;
+}
+
+#scratch{
+	right: 5%;
+	bottom: 20%;
+}
+
