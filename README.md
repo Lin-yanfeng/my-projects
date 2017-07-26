@@ -6,7 +6,7 @@
 
 [个人博客](https://calabash519.github.io/)
 
-[轮播图](https://calabash519.github.io/my-projects/carousel/rotation.html)
+[轮播图](https://calabash519.github.io/my-projects/Carousel/rotation.html)
 
 [Canvas动画](https://calabash519.github.io/my-projects/Canvas/index.html)
 
